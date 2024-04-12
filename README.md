@@ -1,36 +1,37 @@
-<div align="center">
-<h1 align="center">Hi 👋, I'm Lewis</h1>
-<h3 align="center">I am a Software Engineer & a UI Designer</h3>
+<div align="left">
+<h1 align="left">Hi 👋, I'm Lewis</h1>
+<h3 align="left">I am a Software Engineer & a UI Designer</h3>
 
 👨‍💻 Take a look at my work **[lewis.design](https://lewis.design)**<br>
 💬 Ask me about **UI Design, Frontend Engineering, anything really**<br>
 📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/lewiseydman" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lewis Eydman | LinkedIn" title="Lewis Eydman | LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.behance.net/lewiseydman" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Lewis Eydman | Behance" title="Lewis Eydman | Behance" height="30" width="40" />
-    </a>
-</p>
+<br />
+<br />
 
 ![lewiseydman's Stats](https://github-readme-stats.vercel.app/api?username=lewiseydman&theme=react&card_width=487&show_icons=true&hide_border=false&count_private=true)
 ![lewiseydman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lewiseydman&theme=react&card_width=487&hide_border=false)
+<br />
+<br />
 
-<h3 align="center">Skills & Languages</h3>
-<p align="center">
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/typescript/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" title="Python" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" title="Git" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="40" height="40" /> </a>
-    <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="XD" title="XD" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" /> </a>
-</p>
+### Languages and Tools:
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<br />
+<br />
+
 </div>
