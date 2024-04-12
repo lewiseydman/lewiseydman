@@ -25,6 +25,11 @@
     <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/sql/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" title="SQL" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" title="Python" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/php/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" alt="Git" title="Git" width="40" height="40" /> </a>
+    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" width="40" height="40" /> </a>
+    <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="XD" title="XD" width="40" height="40" /> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" /> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewiseydman&show_icons=true&locale=en&layout=compact" alt="Lewis Eydman | GitHub Stats" title="Lewis Eydman | GitHub Stats" /></p>
