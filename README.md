@@ -16,7 +16,7 @@
     </a>
 </p>
 
-![lewiseydman's Stats](https://github-readme-stats.vercel.app/api?username=lewiseydman&theme=react&show_icons=true&hide_border=false&count_private=true)
+![lewiseydman's Stats](https://github-readme-stats.vercel.app/api?username=lewiseydman&theme=react&card_width=487&show_icons=true&hide_border=false&count_private=true)
 ![lewiseydman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lewiseydman&theme=react&card_width=487&hide_border=false)
 
 <h3 align="center">Skills & Languages</h3>
