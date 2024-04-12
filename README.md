@@ -18,7 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewiseydman&show_icons=true&theme=radical)
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Skills & Languages</h3>
 <p align="center">
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40" /> </a>
