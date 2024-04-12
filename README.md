@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
 <h3 align="center">I am a Software Engineer & a UI Designer</h3>
 
-👨‍💻 Take a look at my work [https://www.lewis.design](https://www.lewis.design)<br>
+👨‍💻 Take a look at my work **[https://www.lewis.design](https://lewis.design)**<br>
 💬 Ask me about **UI Design, Frontend Engineering, anything really**<br>
-📫 Reach out professionally: **https://www.linkedin.com/in/lewiseydman**
+📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
