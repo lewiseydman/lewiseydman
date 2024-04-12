@@ -1,5 +1,5 @@
 <div align="left">
-<h1 align="left">Lewis ∑ydman</h1>
+<h1 align="left">Hey, I'm <a href="https://lewis.design" target="_blank">Lewis</a>.</h1>
 <h3 align="left">I am a Software Engineer & a UI Designer</h3>
 
 👨‍💻 Take a look at my work <span style="color: #61DAFB;">lewis.design</span><br>
