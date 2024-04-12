@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
 <h3 align="center">I am a Software Engineer & a UI Designer</h3>
 
-👨‍💻 Checkout my website [https://www.lewis.design](https://www.lewis.design)<br>
+👨‍💻 Take a look at my work [https://www.lewis.design](https://www.lewis.design)<br>
 💬 Ask me about **UI Design, Frontend Engineering, anything really**<br>
-📫 How to reach me: LinkedIn **https://www.linkedin.com/in/lewiseydman**
+📫 Reach out professionally: **https://www.linkedin.com/in/lewiseydman**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/lewiseydman" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lewis Eydman - LinkedIn" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lewis Eydman - LinkedIn" title="My LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.behance.net/lewiseydman" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Lewis Eydman - Behance" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Lewis Eydman - Behance" title="My Behance" height="30" width="40" />
     </a>
 </p>
 
