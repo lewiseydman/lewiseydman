@@ -1,12 +1,13 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Lewis</h1>
 <h3 align="center">I am a Software Engineer & a UI Designer</h3>
 
-- 👨‍💻 Checkout my website [https://www.aashhab.design](https://www.aashhab.design)
-- 💬 Ask me about **UI Design, Frontend Engineering, anything really**
-- 📫 How to reach me: LinkedIn **https://www.linkedin.com/in/lewiseydman**
+👨‍💻 Checkout my website [https://www.lewis.design](https://www.lewis.design)
+💬 Ask me about **UI Design, Frontend Engineering, anything really**
+📫 How to reach me: LinkedIn **https://www.linkedin.com/in/lewiseydman**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://www.linkedin.com/in/lewiseydman" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lewis Eydman - LinkedIn" height="30" width="40" />
     </a>
@@ -48,3 +49,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewiseydman&show_icons=true&locale=en&layout=compact" alt="lewiseydman" /></p>
+</div>
