@@ -16,8 +16,8 @@
     </a>
 </p>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewiseydman&show_icons=true&theme=dark) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lewiseydman&theme=dark)](https://git.io/streak-stats) 
+![lewiseydman's Stats](https://github-readme-stats.vercel.app/api?username=lewiseydman&theme=react&show_icons=true&hide_border=false&count_private=true)
+![lewiseydman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lewiseydman&theme=react&hide_border=false)
 
 <h3 align="center">Skills & Languages</h3>
 <p align="center">
