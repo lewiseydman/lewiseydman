@@ -9,10 +9,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/lewiseydman" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lewis Eydman - LinkedIn" title="My LinkedIn" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lewis Eydman | LinkedIn" title="Lewis Eydman | LinkedIn" height="30" width="40" />
     </a>
     <a href="https://www.behance.net/lewiseydman" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Lewis Eydman - Behance" title="My Behance" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Lewis Eydman | Behance" title="Lewis Eydman | Behance" height="30" width="40" />
     </a>
 </p>
 
@@ -48,5 +48,5 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewiseydman&show_icons=true&locale=en&layout=compact" alt="lewiseydman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewiseydman&show_icons=true&locale=en&layout=compact" alt="Lewis Eydman | GitHub Stats" title="Lewis Eydman | GitHub Stats" /></p>
 </div>
