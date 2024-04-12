@@ -1,11 +1,9 @@
 <div align="left">
-<h1 align="left">Hi 👋, I'm Lewis</h1>
+<h1 align="left">Lewis ∑ydman</h1>
 <h3 align="left">I am a Software Engineer & a UI Designer</h3>
 
-👨‍💻 Take a look at my work <a href="https://lewis.design" style="color: #61DAFB; text-decoration: none;">lewis.design</a>
-<br>
-💬 Ask me about **UI Design, Frontend Engineering, anything really**
-<br>
+👨‍💻 Take a look at my work <span style="color: #61DAFB;">lewis.design</span><br>
+💬 Ask me about **UI Design, Frontend Engineering, anything really**<br>
 📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
 <br />
 <br />#61DAFB
