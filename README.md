@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lewiseydman/lewiseydman/main/lewiseydman-header.png">
+<img src="https://raw.githubusercontent.com/lewiseydman/lewiseydman/main/lewiseydman-img.png">
 <br />
 <br />
 
