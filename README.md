@@ -39,6 +39,9 @@
 <a href="https://adobexdplatform.com/" target="_blank"> <img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" /></a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
 <a href="https://webflow.com/" target="_blank"> <img align="left" alt="Webflow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img align="left" alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" /></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"> <img align="left" alt="Confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" /></a>
+<a href="https://trello.com/home" target="_blank"> <img align="left" alt="Trello" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /></a>
 </div>
 <br />
 <br />
