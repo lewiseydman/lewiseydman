@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/lewiseydman/lewiseydman/main/lewiseydman-graphic.png">
+<br />
+<br />
+
 <div align="left">
 <h1 align="left">Hey, I'm <a href="https://lewiseydman.dev" target="_blank">Lewis</a>.</h1>
 <h3 align="left">I am a Software Engineer & a UI Designer</h3>
