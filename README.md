@@ -18,7 +18,7 @@
 <br />
 
 
-### Development Tools:
+### Development Skills:
 <div>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="30px" style="padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="30px" style="padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
@@ -33,13 +33,12 @@
 <br />
 <br />
 
-### Design Tools:
+### Design Skills:
 <div>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/></a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/></a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Figma" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img align="left" alt="Adobe Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></a>
+<a href="https://adobexdplatform.com/" target="_blank"> <img align="left" alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" /></a>
+<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></a>
+<a href="https://webflow.com/" target="_blank"> <img align="left" alt="Webflow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" /></a>
 </div>
 <br />
 <br />
