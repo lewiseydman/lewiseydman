@@ -1,5 +1,5 @@
 <div>
-<img src="https://raw.githubusercontent.com/lewiseydman/lewiseydman/main/lewiseydman.png">
+<img src="https://raw.githubusercontent.com/lewiseydman/lewiseydman/main/lewiseydman-header.png">
 </div>
 <div align="left">
 <h1 align="left">Hey, I'm <a href="https://lewiseydman.dev" target="_blank">Lewis</a>.</h1>
