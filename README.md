@@ -21,7 +21,6 @@
 <br />
 <br />
 
-
 ### Development Skills:
 <div>
 <a href="https://www.w3schools.com/html/" target="_blank"><img alt="HTML5" width="30px" style="padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></a>
@@ -37,7 +36,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code" width="30px" style="padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
 <a href="https://git-scm.com/" target="_blank"><img alt="Git" width="30px" style="padding-bottom: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></a>
 </div>
-<br />
 <br />
 
 ### Design Skills:
