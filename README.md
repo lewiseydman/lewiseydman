@@ -4,10 +4,14 @@
 <div align="left">
 <h1 align="left">Hey, I'm <a href="https://lewiseydman.dev" target="_blank">Lewis</a>.</h1>
 <h3 align="left">Designer by nature, developer by nuture.</h3>
+<br />
 
-👨‍💻 Take a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**<br>
-💬 Ask me about **UI Design, Frontend Engineering, anything really**<br>
-📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
+- 👨‍💻 Take a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
+
+- 💬 Ask me about **UI Design, Frontend Engineering, anything really**
+
+- 📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
+
 <br />
 <br />
 </div>
