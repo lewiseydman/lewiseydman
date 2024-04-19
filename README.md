@@ -8,7 +8,7 @@
 
 - 👨‍💻 Take a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
 
-- 💬 Ask me about **UI Design, Frontend Engineering, anything really**
+- 💬 Ask me about **user interface, digital design or just about anything really**
 
 - 📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
 
