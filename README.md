@@ -3,7 +3,7 @@
 </div>
 <div>
 <h1 align="left">Hey, I'm <a href="https://lewiseydman.dev" target="_blank">Lewis</a>.</h1>
-<h3 align="left">Designer by nature, developer by nuture.</h3>
+<h3 align="left">Designer by nature, developer by choice, <span style="color:#61d9f8;">adventurer at heart.</span></h3>
 <br />
 
 - 👨‍💻 Take a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
