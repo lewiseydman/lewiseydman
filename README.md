@@ -28,9 +28,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" title="CSS3" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></a>
 <a href="https://www.w3schools.com/jquery/" target="_blank"><img alt="JQuery" title="JQuery" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" /></a>
 <a href="https://www.w3schools.com/sql/" target="_blank"><img alt="SQL" title="SQL" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /></a>
+<a href="https://www.w3schools.com/php/" target="_blank"><img alt="PHP" title="PHP" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img alt="Javascript" title="Javascript" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img alt="Typescript" title="Typescript" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-<a href="https://www.w3schools.com/php/" target="_blank"><img alt="PHP" title="PHP" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" title="Node.js" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></a>
 <a href="https://react.dev/" target="_blank"><img alt="React" title="React" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" title="Next.js" align="center" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
