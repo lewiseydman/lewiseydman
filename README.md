@@ -6,7 +6,7 @@
 <h3 align="left">Designer by nature, developer by choice, adventurer at heart.</h3>
 <br />
 
-- 👨‍💻 Have a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
+- 💻 Have a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
 
 - 💬 Lets talk about **user interface/experience, frontend dev or digital design!**
 
