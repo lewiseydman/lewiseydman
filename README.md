@@ -3,14 +3,14 @@
 </div>
 <div>
 <h1 align="left">Hey, I'm <a href="https://lewiseydman.dev" target="_blank">Lewis</a>.</h1>
-<h3 align="left">Designer by nature, developer by choice, <span style="color:#61d9f8;">adventurer at heart.</span></h3>
+<h3 align="left">Designer by nature, developer by choice, adventurer at heart.</h3>
 <br />
 
-- 👨‍💻 Take a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
+- 👨‍💻 Have a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
 
-- 💬 Ask me about **user interface, digital design or just about anything really**
+- 💬 Lets talk about **user interface/experience, frontend dev or digital design!**
 
-- 📫 Reach out professionally: **https://linkedin.com/in/lewiseydman**
+- 💼 Reach out to me professionally on **[LinkedIn](https://linkedin.com/in/lewiseydman)**
 
 <br />
 <br />
