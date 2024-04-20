@@ -10,7 +10,7 @@
 
 - 💬 Lets talk about **user interface/experience, frontend dev or digital design!**
 
-- 💼 Reach out to me professionally on **[LinkedIn](https://linkedin.com/in/lewiseydman)**
+- ⌚ Reach out to me professionally on **[LinkedIn](https://linkedin.com/in/lewiseydman)**
 
 <br />
 <br />
