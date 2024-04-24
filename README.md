@@ -8,7 +8,7 @@
 
 - 💻 Have a look at my work **[lewiseydman.dev](https://lewiseydman.dev)**
 
-- 💬 Lets talk about **ui/ux or anything design and development**
+- 💬 Lets talk about **user interface / experience or anything design and development!**
 
 - ⌚ Reach out to me professionally on **[LinkedIn](https://linkedin.com/in/lewiseydman)**
 
